@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a third-year Master's student in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/), Sun Yat-sen University, supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234). Previously, I received my B.Eng. in Mechanical Design, Manufacturing and Automation from University of Electronic Science and Technology of China (NESTC) in 2022.
+Hi! I’m a third-year Master's student in the [School of Artificial Intelligence](https://sai.sysu.edu.cn/), Sun Yat-sen University, supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234). Previously, I received my B.Eng. in Mechanical Design, Manufacturing and Automation from University of Electronic Science and Technology of China (UESTC) in 2022.
 
 A data-driven personal website
 ======
