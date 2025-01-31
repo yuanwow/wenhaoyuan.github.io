@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : ""
+locale                   : "en-US"
 title                    : "Wenhao Yuan's Personal Homepage"
 title_separator          : ""
 name                     : &name "Your Name"
