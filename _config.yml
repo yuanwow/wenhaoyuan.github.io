@@ -24,9 +24,9 @@ author:
   avatar           : "Wenhao_Yuan.png"
   name             : "Wenhao Yuan"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Sun Yat-sen University"
   location         : "Zhuhai, Guangdong"
-  employer         : "Sun Yat-sen University"
+  employer         : # ""
   uri              : # URL
   email            : "yuanwh7@mail2.sysu.edu.cn" 
 
