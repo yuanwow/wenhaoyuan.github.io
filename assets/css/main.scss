@@ -41,41 +41,4 @@
 @import "print";
 
 
-/* ------------------------------------------------
-   📌 全站统一字体设置
--------------------------------------------------- */
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Hentaigana:wght@200..900&display=swap'); /* Google Fonts 示例 */
-/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap'); /* Google Fonts 示例 */ */
-
-body {
-  font-family: "Noto Serif Hentaigana", serif;  /* 这里换成你想要的字体 */
-  font-size: 18px; /* 设置全局字体大小 */
-  line-height: 1.8; /* 让行间距更舒适 */
-  color: #333; /* 全站文字颜色 */
-  background-color: #ffffff; /* 全站背景颜色 */
-}
-
-/* 📌 代码块字体 */
-code, pre {
-  font-family: "Fira Code", monospace;
-  font-size: 16px;
-}
-
-/* 📌 让标题字体更清晰 */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Noto Serif Hentaigana", serif; /* 让标题也使用相同字体 */
-  font-weight: bold;
-  color: #222;
-}
-
-/* 📌 链接样式 */
-a {
-  color: #0066cc;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: #004499;
-}
