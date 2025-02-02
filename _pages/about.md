@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About Me
+======
 Hi! I’m a third-year Master's student in the [School of Artificial Intelligence (SAI)](https://sai.sysu.edu.cn/), Sun Yat-sen University (SYSU), supervised by [Prof. Xuehe Wang](https://sai.sysu.edu.cn/teacher/234). Previously, I received my B.Eng. in Mechanical Design, Manufacturing and Automation from University of Electronic Science and Technology of China (UESTC) in 2022.
 
 A data-driven personal website
